@@ -1,1 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My News Hub</title>
+</head>
+
+<body>
+
+    <h1>My News Hub</h1>
+
+    <h2>Featured Story</h2>
+    <p>
+        Welcome to My News Hub! Today’s featured article covers the latest updates
+        on local community events and important developments.
+        Click below to read the full story.
+    </p>
+
+    <!-- Link to article (same window) -->
+    <p>
+        <a href="article.html">Read the Full Article</a>
+    </p>
+
+    <!-- Link to PDF (new window) -->
+    <p>
+        <a href="documents/article.pdf" target="_blank">
+            Download Article as PDF
+        </a>
+    </p>
+
+    <hr>
+
+    <h2>External News Source</h2>
+    <p>
+        Stay updated with national and global headlines from a trusted news source.
+    </p>
+
+    <!-- External link (new window) -->
+    <p>
+        <a href="https://www.cnn.com" target="_blank">
+            Visit CNN News
+        </a>
+    </p>
+
+</body>
+</html>
 
